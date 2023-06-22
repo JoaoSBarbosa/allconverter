@@ -1,0 +1,58 @@
+# Conversor de Unidades de Medidas
+
+Este é uma segunda versão do projeto de conversor de unidades de medidas desenvolvido com HTML, CSS e JavaScript. Ele permite que o usuário converta valores de uma medida para outra em diferentes categorias, como moeda, temperatura e massa.
+
+Este projeto foi desenvolvido através do curso "Projetos de Javascript" do professor Matheus Battisti.
+
+## Funcionalidades
+
+- Conversão de diferentes unidades de medida em várias categorias, incluindo moeda, temperatura e massa.
+- Interface amigável e fácil de usar.
+- Resultado da conversão exibido em através de mensagem informativa e display.
+
+## Pré-requisitos
+
+Antes de executar o projeto, verifique se você possui os seguintes requisitos:
+
+- Navegador web moderno que suporte HTML5, CSS3 e JavaScript.
+
+## Executando o projeto
+
+Para executar o projeto, siga as etapas abaixo:
+
+1. Clone ou faça o download do repositório para o seu computador.
+2. Abra o arquivo `index.html` em um navegador web.
+
+## Como usar
+
+1. Na página inicial, você verá links para diferentes tipos de conversores, como Conversor de Moeda, Conversor de Temperatura e Conversor de Massa.
+2. Clique em um dos links para acessar a página específica do conversor escolhido.
+3. Preencha o valor da medida no campo de entrada fornecido.
+4. Selecione a unidade de medida de origem no menu suspenso.
+5. Selecione a unidade de medida de destino no segundo menu suspenso.
+6. O resultado da conversão será exibido automaticamente na div de resultado.
+
+## Personalizando o projeto
+
+Se desejar personalizar o projeto, você pode fazer as seguintes alterações:
+
+- Alterar o estilo da página editando o arquivo `styles.css`.
+- Adicionar novos tipos de conversores no arquivo `index.html`, criando links para as páginas correspondentes.
+- Modificar a estrutura HTML das páginas de conversores específicos para atender às suas necessidades.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Se você quiser contribuir com este projeto, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas alterações (`git commit -am 'Adicionando uma nova feature'`).
+4. Envie a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+
+- Nome: João Barbosa
+- Portfólio: https://joaosbarbosa.com.br/

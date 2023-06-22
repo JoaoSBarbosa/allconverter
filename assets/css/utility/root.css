@@ -1,0 +1,8 @@
+:root {
+  --flex: flex;
+  --items-center: center;
+}
+
+.flex {
+  display: var(--flex);
+}
